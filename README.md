@@ -1,3 +1,3 @@
 # codsoftT1
 
-Number booking game
+Number guessing game
